@@ -1,0 +1,21 @@
+{
+    "post": {
+        "title": "Hello",
+        "detail": "My post, hello!",
+        "likes": 20
+    },
+    "something": "...",
+    "nested": {
+        "something": "...",
+        "post": {
+            "title": "What is this",
+            "detail": "The nest seems to work",
+            "likes": 14,
+            "embedded_post": {
+                "title": "Embedded Post",
+                "detail": "Embedded post also work",
+                "likes": 100
+            }
+        }
+    }
+}
