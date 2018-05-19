@@ -39,5 +39,5 @@ struct Post: Decodable {
 }
 ```
 
-##Installation
+## Installation
 Just drag `NestedDecodable.swift` to your project.
