@@ -1,0 +1,30 @@
+{
+    "code": 200,
+    "status": "Ok",
+    "etag": "7232324423",
+    "data": {
+        "offset": 0,
+        "limit": 25,
+        "results": [{
+            "id": 1011244,
+            "name": "Miss Nesbit",
+            "description": "",
+            "modified": "2018-04-04T20:15:35-0400",
+            "thumbnail": {
+                "path": "http://i.annihil.us/u/prod/i/mg/8/70/4c002efc322e3",
+                "extension": "jpg"
+            }
+        },
+        {
+            "id": 1011244,
+            "name": "Miss Solis",
+            "description": "",
+            "modified": "2018-09-04T20:15:35-0400",
+            "thumbnail": {
+                "path": "http://i.annihil.us/u/prod/i/mg/8/70/4c002efc382e3",
+                "extension": "jpg"
+            }
+        }
+        ]
+    }
+}
