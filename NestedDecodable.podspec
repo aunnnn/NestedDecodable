@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
     s.platforms = { :ios => "8.0", :osx => "10.10" }
 
-    s.name = "NestDecodable"
+    s.name = "NestedDecodable"
     s.summary = "Directly decode JSON model with nested key"
     s.requires_arc = true
 
